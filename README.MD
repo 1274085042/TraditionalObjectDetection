@@ -25,10 +25,10 @@ OpenCV-Python Tutorials <https://opencv-python-tutroals.readthedocs.io/en/latest
   * [Support Vector Machines (SVM)](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_ml/py_svm/py_svm_index.html#svm)
 * [Object Detection](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_objdetect/py_table_of_contents_objdetect/py_table_of_contents_objdetect.html)   
 
-
 如果英文看不懂，可以看中文 <https://github.com/makelove/OpenCV-Python-Tutorial>  
 ## 什么是目标检测？
 * [Object Detection](./paper/Object&#32;Detection.pdf)
+* [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)  (看Traditional Detectors)
 * [Deep Learning vs. Traditional Computer Vision](./paper/Deep&#32;Learning&#32;vs&#32;Traditional.pdf)  
 ## 传统目标检测方法
 * [Histograms of Oriented Gradients for Human Detection
