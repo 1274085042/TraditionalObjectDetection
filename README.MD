@@ -29,10 +29,18 @@ OpenCV-Python Tutorials <https://opencv-python-tutroals.readthedocs.io/en/latest
 如果英文看不懂，可以看中文 <https://github.com/makelove/OpenCV-Python-Tutorial>  
 ## 什么是目标检测？
 * [Object Detection](./paper/Object&#32;Detection.pdf)
-* [Deep Learning vs. Traditional Computer Vision](./paper/Deep&#32;Learning&#32;vs&#32;Traditional.pdf)
-
+* [Deep Learning vs. Traditional Computer Vision](./paper/Deep&#32;Learning&#32;vs&#32;Traditional.pdf)  
+## 传统目标检测方法
+* [Histograms of Oriented Gradients for Human Detection
+](paper/Histograms&#32;of&#32;Oriented&#32;Gradients&#32;for&#32;Human&#32;Detection.pdf)
+    * <https://blog.csdn.net/zouxy09/article/details/7929348> 
+* [Object Detection with Discriminatively Trained Part Based Models](paper/DPM.pdf)
+  * <http://www.rossgirshick.info/latent/>
 ## 目标检测实践
 * <https://github.com/bikz05/object-detector>
 * <https://github.com/HandsomeHans/SVM-classification-localization>
 * <https://github.com/VladKha/object_detector>
 * <https://github.com/vinay0410/Pedestrian_Detection>
+* <http://spytensor.com/index.php/category/Object-Detection/>
+  
+  
