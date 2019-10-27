@@ -28,7 +28,7 @@ OpenCV-Python Tutorials <https://opencv-python-tutroals.readthedocs.io/en/latest
 如果英文看不懂，可以看中文 <https://github.com/makelove/OpenCV-Python-Tutorial>  
 ## 什么是目标检测？
 * [Object Detection](./paper/Object&#32;Detection.pdf)
-* [Object Detection in 20 Years: A Survey](https://arxiv.org/abs/1905.05055)  (看Traditional Detectors)
+* [Object Detection in 20 Years: A Survey](./paper/Object&#32;Detection&#32;in&#32;20&#32;Years.pdf)  (看 2.1.1 Traditional Detectors)
 * [Deep Learning vs. Traditional Computer Vision](./paper/Deep&#32;Learning&#32;vs&#32;Traditional.pdf)  
 ## 传统目标检测方法
 * [Histograms of Oriented Gradients for Human Detection
